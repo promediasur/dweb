@@ -960,7 +960,8 @@
             },
             ".price-value": {
               "font-weight": "700",
-              "vertical-align": "top"
+              "vertical-align": "top",
+              "color": "#232323"
             },
             "@media (max-width: 550px)": {
               ".price-figure": {
@@ -971,6 +972,12 @@
               "color": "#232323"
             },
             ".price-value SPAN": {
+              "color": "#232323"
+            },
+            "SPAN": {
+              "color": "#232323"
+            },
+            ".price-term": {
               "color": "#232323"
             }
           },

@@ -2132,6 +2132,7 @@ body {
 .cid-qUOux5xBuj .price-value {
   font-weight: 700;
   vertical-align: top;
+  color: #232323;
 }
 @media (max-width: 550px) {
   .cid-qUOux5xBuj .price-figure {
@@ -2142,6 +2143,12 @@ body {
   color: #232323;
 }
 .cid-qUOux5xBuj .price-value SPAN {
+  color: #232323;
+}
+.cid-qUOux5xBuj SPAN {
+  color: #232323;
+}
+.cid-qUOux5xBuj .price-term {
   color: #232323;
 }
 .cid-qUOnJjVHDF {
