@@ -2184,15 +2184,20 @@ body {
 }
 .cid-qUOux5xBuj .plan-title {
   color: #232323;
+  text-align: left;
 }
 .cid-qUOux5xBuj .price-value SPAN {
   color: #232323;
 }
 .cid-qUOux5xBuj SPAN {
   color: #232323;
+  text-align: left;
 }
 .cid-qUOux5xBuj .price-term {
   color: #232323;
+}
+.cid-qUOux5xBuj UL {
+  text-align: left;
 }
 .cid-qUOnJjVHDF {
   padding-top: 60px;
